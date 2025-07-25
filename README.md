@@ -1,28 +1,16 @@
-# Hi, I'm Princy
+# Princy Doshi
 
-I'm a Computer Engineering graduate student at NYU Tandon, interested in solving practical problems through data-driven systems. I work across the machine learning lifecycle — from modeling and evaluation to deployment and monitoring — with a growing focus on MLOps, robustness, and transparency in AI.
-
----
-
-## What I’m Focused On
-- Designing scalable ML pipelines and automating workflows  
-- Studying adversarial robustness and image authenticity verification  
-- Building systems that bridge research and real-world deployment  
+Graduate student in Computer Engineering at NYU Tandon  
+Focused on applying machine learning and MLOps to real-world problems
 
 ---
 
-## Connect with Me  
-LinkedIn: [https://www.linkedin.com/in/princy-doshi-071b581b3/?originalSubdomain=in] 
+I specialize in designing scalable ML pipelines, automating workflows, and enhancing AI model robustness, with experience in adversarial attack defense and image authenticity detection.
+
+My toolkit includes Python, SQL, JavaScript, and C++, along with frameworks and tools like TensorFlow, PyTorch, Docker, MLflow, and Ray. I also work with databases such as Oracle DB and MySQL, and have practical knowledge of REST APIs, MEAN Stack, and NLP including large language models.
+
+I approach problems with a blend of technical rigor and practical deployment in mind, aiming to build systems that bridge research insights with production needs.
 
 ---
 
-## Languages & Web Technologies  
-Python, SQL, HTML5, CSS, JavaScript, C++, Bootstrap, R
-
----
-
-## Tools & Technologies  
-ElasticSearch, Oracle DB, MySQL, MEAN Stack, REST APIs  
-GitHub, Jira, Postman, PuTTY, NumPy, Pandas  
-TensorFlow, PyTorch, MLflow, Docker, Ray  
-NLP (LLMs, RAG), Agile Methodologies, API Integration
+*Explore my repositories to see projects that reflect these skills and interests.*
