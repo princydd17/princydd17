@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Princy
 
-<!--
-**princydd17/princydd17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Graduate student in Computer Engineering @ NYU Tandon, passionate about machine learning, MLOps, and building intelligent systems.
 
-Here are some ideas to get you started:
+- 🔭 Exploring deep learning & scalable ML pipelines  
+- 🧠 Working on adversarial robustness and image authenticity detection  
+- 💻 Experienced with Python, PyTorch, Docker, Ray, MLflow, and more
+- - 📫 [LinkedIn]((https://www.linkedin.com/in/princy-doshi-071b581b3/))
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 💻 Languages & Web Technologies
+
+`Python` `SQL` `HTML5` `CSS` `JavaScript` `C++` `Bootstrap` `R`
+
+---
+
+### 🛠️ Tools & Technologies
+
+`ElasticSearch` `Oracle DB` `MySQL` `MEAN Stack` `REST APIs`  
+`GitHub` `Jira` `Postman` `PuTTY` `NumPy` `Pandas`  
+`TensorFlow` `PyTorch` `Microsoft Office` `NLP (LLMs, RAG)`  
+`Agile Methodologies` `API Integration`
